@@ -1,0 +1,74 @@
+POLÍTICA DE PRIVACIDADE DO PIGBOT
+Última atualização: 01/04/2025
+
+Esta política explica quais dados o PigBot  coleta, como são usados e seus direitos como usuário.
+
+1. DADOS COLETADOS
+O PigBot pode armazenar os seguintes dados apenas para funcionamento técnico:
+
+IDs numéricos (de usuários, servidores e canais) → Necessários para comandos personalizados e configurações.
+
+Conteúdo de mensagens → Apenas quando explicitamente processado por comandos (ex: /moderação).
+
+Logs de ações → Registros de uso (ex: comandos executados) para diagnóstico de problemas.
+
+🚫 O Bot NUNCA coleta:
+
+E-mails, senhas ou informações de pagamento.
+
+Dados sensíveis (raça, religião, orientação sexual, etc.).
+
+Conversas privadas fora de comandos solicitados.
+
+2. FINALIDADE DOS DADOS
+Os dados são usados exclusivamente para:
+
+Funcionamento de comandos (ex: /ban armazena IDs para listas de moderação).
+
+Personalização (ex: prefixos de servidor).
+
+Prevenção de abuso (ex: cooldown de comandos).
+
+3. ARMAZENAMENTO E SEGURANÇA
+Local: Dados são guardados em servidores seguros (ex: AWS, Render, ou VPS).
+
+Tempo de retenção:
+
+Dados de servidores → Até a remoção do Bot.
+
+Logs → Deletados após 30 dias.
+
+Proteção: Acesso restrito ao desenvolvedor.
+
+4. COMPARTILHAMENTO
+Nenhum dado é vendido ou compartilhado com terceiros.
+
+Exceções:
+
+Cumprimento de ordens judiciais.
+
+Investigação de violações de segurança.
+
+5. SEUS DIREITOS
+Você pode:
+
+Solicitar acesso aos seus dados armazenados 
+
+Pedir exclusão de dados pessoais → Contate-nos no E-mail
+
+Desativar coleta → Remova o Bot do servidor.
+
+6. COOKIES E RASTREAMENTO
+O PigBot não usa cookies, pixels ou tecnologias de rastreamento.
+
+7. ALTERAÇÕES
+Avisaremos sobre mudanças significativas via discordd/email
+
+
+8. CONTATO
+Para dúvidas ou solicitações de dados:
+
+E-mail: ilovesugarpechas@gmail.com
+
+LEGISLAÇÃO APLICÁVEL
+Esta política segue o GDPR (UE) e LGPD (Brasil). Para denúncias, contate a autoridade local de proteção de dados.
